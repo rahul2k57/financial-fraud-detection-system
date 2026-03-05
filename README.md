@@ -10,9 +10,10 @@ A high-performance machine learning application designed to identify fraudulent 
 
 **Recall (Fraud Detection):** ~99% (Minimized False Negatives)
 
+
 ### Technical Methodology:
 
-**Feature Engineering:**
+### **Feature Engineering:**
 
 Custom features were created to better detect suspicious transactions:
 
@@ -34,6 +35,7 @@ Isolated Scaling: The StandardScaler was fitted only on the training data to pre
 
 Training-Only SMOTE: SMOTE was applied only to the training set. Testing data remained unchanged to reflect real-world scenarios.
 
+
 ### Tech Stack and Tools:
 
 **Python:** (Version 3.9 or higher)
@@ -49,6 +51,7 @@ Training-Only SMOTE: SMOTE was applied only to the training set. Testing data re
 **Joblib:** Saving/loading trained model artifacts (.pkl).
 
 **Matplotlib & Seaborn:** EDA and performance visualization.
+
 
 ### How to Run Locally:
 
