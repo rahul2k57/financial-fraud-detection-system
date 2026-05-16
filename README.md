@@ -4,7 +4,7 @@ A high-performance machine learning application designed to identify fraudulent 
 
 **Live Demo** : [financial-fraud detection-system](https://financial-fraud-detection-system-real-time.streamlit.app/)
 
-### Application Preview :
+## Application Preview :
 
 ### Home Page:
 
