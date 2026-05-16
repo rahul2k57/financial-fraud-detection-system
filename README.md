@@ -2,6 +2,12 @@
 
 A high-performance machine learning application designed to identify fraudulent transactions in real-time. By leveraging a Random Forest Classifier and advanced feature engineering, this system achieves near-perfect detection rates on the PaySim synthetic dataset.
 
+**Live Demo** [financial-fraud detection-system](https://financial-fraud-detection-system-real-time.streamlit.app/)
+
+### Application Preview
+
+
+
 ### Key Performance Metrics:
 
 **Model Accuracy:** 99.9%
