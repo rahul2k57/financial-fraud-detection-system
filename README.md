@@ -26,7 +26,7 @@ A high-performance machine learning application designed to identify fraudulent 
 </table>
 
 
-### Key Performance Metrics:
+## Key Performance Metrics:
 
 **Model Accuracy:** 99.9%
 
@@ -35,7 +35,7 @@ A high-performance machine learning application designed to identify fraudulent 
 **Recall (Fraud Detection):** ~99% (Minimized False Negatives)
 
 
-### Technical Methodology:
+## Technical Methodology:
 
 ### **Feature Engineering:**
 
@@ -60,7 +60,7 @@ Isolated Scaling: The StandardScaler was fitted only on the training data to pre
 Training-Only SMOTE: SMOTE was applied only to the training set. Testing data remained unchanged to reflect real-world scenarios.
 
 
-### Tech Stack and Tools:
+## Tech Stack and Tools:
 
 **Python:** (Version 3.9 or higher)
 
@@ -77,7 +77,7 @@ Training-Only SMOTE: SMOTE was applied only to the training set. Testing data re
 **Matplotlib & Seaborn:** EDA and performance visualization.
 
 
-### How to Run Locally:
+## How to Run Locally:
 
 **Clone the repository:**
 
