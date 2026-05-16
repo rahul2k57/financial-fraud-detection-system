@@ -27,8 +27,11 @@ A high-performance machine learning application designed to identify fraudulent 
 </table>
 
 
-## Project Architecture :
+## System Architecture & Workflow
 
+Below is the step-by-step process of how the system processes data and generates predictions:
+
+```mermaid
 graph TD
     A[Raw PaySim Dataset] --> B[Data Preprocessing]
     B --> C[Train-Test Split]
@@ -38,6 +41,7 @@ graph TD
     F --> G[Model Evaluation]
     G --> H[Streamlit Web Application]
     H --> I[Real-Time Fraud Prediction]
+```
 
 ## Key Performance Metrics:
 
