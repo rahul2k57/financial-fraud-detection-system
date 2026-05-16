@@ -6,6 +6,9 @@ A high-performance machine learning application designed to identify fraudulent 
 
 ### Application Preview :
 
+<img width="1438" height="858" alt="home-page-image" src="https://github.com/user-attachments/assets/b635eb59-9ae3-489c-8287-91eb65add0f3" />
+
+<img width="873" height="746" alt="fraud-detection-image" src="https://github.com/user-attachments/assets/c8744a70-5088-4b08-b2a2-096c05e87e2f" />
 
 
 ### Key Performance Metrics:
