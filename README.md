@@ -8,7 +8,7 @@ A high-performance machine learning application designed to identify fraudulent 
 
 ### Home Page:
 
-<img width="850" alt="home-page-image" src="https://github.com/user-attachments/assets/b635eb59-9ae3-489c-8287-91eb65add0f3" />
+<img width="650" alt="home-page-image" src="https://github.com/user-attachments/assets/b635eb59-9ae3-489c-8287-91eb65add0f3" />
 
 ### Fraud Detection Example:
 
