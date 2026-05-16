@@ -32,7 +32,7 @@ A high-performance machine learning application designed to identify fraudulent 
 Below is the step-by-step process of how the system processes data and generates predictions:
 
 ```mermaid
-graph TD
+graph LR
     A[Raw PaySim Dataset] --> B[Data Preprocessing]
     B --> C[Train-Test Split]
     C --> D[SMOTE Imbalance Handling]
