@@ -17,8 +17,13 @@ A high-performance machine learning application designed to identify fraudulent 
 </table>
 
 ### Fraud Detection Example:
-
-<img width="650" alt="fraud-detection-image" src="https://github.com/user-attachments/assets/c8744a70-5088-4b08-b2a2-096c05e87e2f" />
+<table>
+  <tr>
+    <td>
+      <img width="650" alt="fraud-detection-image" src="https://github.com/user-attachments/assets/c8744a70-5088-4b08-b2a2-096c05e87e2f" />
+    </td>
+  </tr>
+</table>
 
 
 ### Key Performance Metrics:
