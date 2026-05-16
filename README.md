@@ -27,6 +27,18 @@ A high-performance machine learning application designed to identify fraudulent 
 </table>
 
 
+## Project Architecture :
+
+graph TD
+    A[Raw PaySim Dataset] --> B[Data Preprocessing]
+    B --> C[Train-Test Split]
+    C --> D[SMOTE Imbalance Handling]
+    D --> E[Feature Engineering]
+    E --> F[Random Forest Classifier]
+    F --> G[Model Evaluation]
+    G --> H[Streamlit Web Application]
+    H --> I[Real-Time Fraud Prediction]
+
 ## Key Performance Metrics:
 
 **Model Accuracy:** 99.9%
