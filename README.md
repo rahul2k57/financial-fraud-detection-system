@@ -33,14 +33,13 @@ Below is the step-by-step process of how the system processes data and generates
 
 ```mermaid
 graph LR
-    A[Raw PaySim Dataset] --> B[Data Preprocessing]
+    A[Raw PaySim Dataset] --> B[Cleaning & Feature Engineering]
     B --> C[Train-Test Split]
-    C --> D[SMOTE Imbalance Handling]
-    D --> E[Feature Engineering]
-    E --> F[Random Forest Classifier]
-    F --> G[Model Evaluation]
-    G --> H[Streamlit Web Application]
-    H --> I[Real-Time Fraud Prediction]
+    C --> D[Scaling & SMOTE]
+    D --> E[Random Forest Training]
+    E --> F[Model Evaluation]
+    F --> G[Export .pkl Files]
+    G --> H[Streamlit App]
 ```
 
 ## Key Performance Metrics:
